@@ -1,9 +1,9 @@
 # Helm Chart to deploy a Flask API dockerized.
 
-### I use Kubectl and minikube for make this works
+I use Kubectl and minikube for make this works
 
 
-##### Follow this guide if you dont have docker and kubernetes installed in your computer (Mac OS)
+**Follow this guide if you dont have docker and kubernetes installed in your computer (Mac OS)**
 
 
 
@@ -94,14 +94,14 @@ Download your version - https://github.com/helm/helm/releases
 ```
 
 
-Unpack it
+- Unpack it
 
 ```
 tar -zxvf helm-v3.0.0-linux-amd6
 ```
 
 
-Find the helm binary in the unpacked directory, and move it to its desired destination
+- Find the helm binary in the unpacked directory, and move it to its desired destination
 
 ```
 mv linux-amd64/helm /usr/local/bin/helm
