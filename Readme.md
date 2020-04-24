@@ -2,7 +2,7 @@
 
 ### I use Kubectl and minikube for make this works
 
-### Follow this guide if you dont have docker and kubernetes installed in your computer (Mac OS)
+##### Follow this guide if you dont have docker and kubernetes installed in your computer (Mac OS)
 
 #### Docker
 
